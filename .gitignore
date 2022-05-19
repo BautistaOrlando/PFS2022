@@ -1,0 +1,6 @@
+/node_modules
+*/*/*.js
+/CODE org 
+/HERRAMIENTAS
+*/*.js
+*/*/*/*.js
