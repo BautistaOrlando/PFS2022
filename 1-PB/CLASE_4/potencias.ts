@@ -10,7 +10,6 @@ function potencias(base:number, exponente:number) : number {
         }
             while (exponente < 0) { 
                 exponente = rls.questionInt ("El numero ingresado es invalido, intentelo de nuevo: ");
-                return base**exponente;
             }
     return potencias (base, exponente);
 }
